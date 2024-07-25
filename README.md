@@ -6,7 +6,7 @@ This project is a software service for managing learner data. It is designed to 
 
 ## Project Structure
 
-- **Ncfe.CodeTest**: The main project containing the `LearnerService` and related interfaces and models.
+- **Ncfe.CodeTest**: The main project contains the `LearnerService` and related interfaces and models.
 - **Ncfe.CodeTest.Tests**: The test project containing unit tests for the `LearnerService` using NUnit and Moq.
 
 ## Installation
@@ -19,5 +19,5 @@ This project is a software service for managing learner data. It is designed to 
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/learner-service-project.git
+git clon ehttps://github.com/omkar-patil045/Ncfe.CodeTest.git
 
