@@ -19,5 +19,5 @@ This project is a software service for managing learner data. It is designed to 
 ### Clone the Repository
 
 ```sh
-git clon ehttps://github.com/omkar-patil045/Ncfe.CodeTest.git
+git clone https://github.com/omkar-patil045/Ncfe.CodeTest.git
 
